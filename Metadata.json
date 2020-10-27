@@ -1,0 +1,20 @@
+{
+    "Author": "Jono Lewis",
+    "ContentSize": 311319,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-powershell-vm-deployment-tool/master/AzRm-VMDeploy.ps1",
+    "DownloadCount": 5581,
+    "Id": "Automated-solution-for-e4627266",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 300,
+    "RaterCount": 5,
+    "Rating": 4.8,
+    "ReleaseDate": "2016-6-27T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Why did I create these tools?Azure is an amazing platform that is still in its infancy and thus still a bit quirky in the way some of the operations are executed via Azure PowerShell regardless of whether ARM json templates or just PowerShell are used for automation.Specifical",
+    "Title": "Azure Powershell VM Deployment Tool",
+    "UpdatedDate": "2017-8-17T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-powershell-vm-deployment-tool",
+    "UserTags": "Azure, Microsoft Azure, Automation"
+}
